@@ -1,0 +1,58 @@
+.faculty-details {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  .faculty-details h3{
+    color: rgb(62, 9, 109);
+  }
+
+  .faculty-details h2{
+    color: rgb(28, 6, 134);
+    font-weight: 700;
+  }
+  
+  .faculty-card {
+    display: flex;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    width: 50vw;
+    /* text-align: center; */
+    border-radius: 20px;
+  }
+  
+  .faculty-card h3 {
+    margin-top: 0;
+    margin-left: 50px;
+  }
+  
+  .faculty-card p {
+    margin: 10px 0;
+  }
+
+  .image{
+    margin-left: 50px;
+  }
+  .image img{
+    width: 150px;
+    height: 180px;
+    border: none;
+    border-radius: 15px;
+  }
+  
+  .info{
+    margin-left: 60px;
+  }
+
+  .information{
+    display: flex;
+  }
+
+  .information h5{
+    margin-right: 15px;
+  }

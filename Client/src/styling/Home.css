@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.left-body{
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+}
+
+.right-body{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+
+.carousel{
+    width: 68vw;
+    margin: 20px;
+}
+
+.update-box{
+    width: 28vw;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 60vh;
+}
+
+.authorities{
+    border: none;
+    background-color: rgb(187, 219, 187);
+    width: 28vw;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 25vh;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.hod-container{
+    width: 68vw;
+    margin: 20px;
+}

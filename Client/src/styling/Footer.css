@@ -1,0 +1,11 @@
+.footer{
+    border: 1px solid rgb(33, 48, 35);
+    background-color: rgb(74, 94, 73);
+    margin: 2px;
+}
+
+.footer p{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 6px;
+}

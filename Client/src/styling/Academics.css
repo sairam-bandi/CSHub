@@ -1,0 +1,26 @@
+.text{
+    margin: 50px;
+}
+
+.buttons{
+    margin-left: 650px;
+    margin-bottom: 20px;
+}
+
+.button button{
+    background-color:rgb(19, 179, 125);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px;
+    width: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.students h2{
+    text-align: center;
+    font-weight: 900;
+    margin-top: 30vh;
+}

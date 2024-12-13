@@ -1,0 +1,31 @@
+.preparation-container {
+    margin: 2rem;
+    padding: 2rem;
+    border: 1px solid #ece7e7;
+    border-radius: 5px;
+  }
+  
+  .preparation-text {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+  }
+  
+  .preparation-list {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+  }
+  
+  .preparation-list li {
+    margin: 0.5rem 0;
+  }
+  
+  .preparation-list li a {
+    color: #005580;
+    text-decoration: underline;
+  }
+  
+  .preparation-list li a:hover {
+    color: #00213d;
+  }
+  

@@ -1,0 +1,38 @@
+.update-ticker {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: rgba(177, 174, 180, 0.938);
+    height : 55vh;
+    border: none;
+    border-radius: 7px;
+  }
+  
+  .update-ticker__item {
+    display: flex;
+    height: 40px;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 0 10px;
+    border-radius: 5px;
+    background-color: #aaaaca;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    font-weight: bold;
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #333;
+  }
+  
+  .update-ticker__item:first-child {
+    margin-top: auto;
+  }
+
+  .heading{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+  }
+  

@@ -1,0 +1,45 @@
+.facilities {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #bdb9b9;
+  }
+  
+  .facilities h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .facilities ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .facilities li {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .facilities h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .facilities img {
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #ccc;
+  }
+  
+  .facilities p {
+    text-align: justify;
+  }
+  

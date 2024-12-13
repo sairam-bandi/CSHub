@@ -1,0 +1,27 @@
+.container-hod{
+    display: flex;
+    background-color: rgb(183, 215, 219);
+    height: 30vh;
+    border: none;
+    border-radius: 10px;
+}
+
+.photo{
+    margin-top: 20px;
+}
+
+.data{
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.data p{
+    margin-top: 30px;
+    font-weight:500;
+}
+
+.data span{
+    font-weight: 700;
+    margin-left: 45vw;
+    cursor: pointer;
+}

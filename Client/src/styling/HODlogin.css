@@ -1,0 +1,61 @@
+.LoginPage {
+    margin-top: 100px;
+    max-width: 500px;
+    margin-left: 650px;
+    padding: 50px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom:20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input[type="email"],
+  input[type="password"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    margin: 5px;
+  }
+  
+  input[type="submit"] {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 7px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #2f5680;
+  }
+  
+  .login-page p{
+    margin-left: 50px;
+    font-weight: 900;
+  }
+
+  .end-title{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-left: 30px;
+  }
+
+  .error-message{
+    font-size: 17px;
+    color: rgb(201, 15, 15);
+    text-align: center;
+  }

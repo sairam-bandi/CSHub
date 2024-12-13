@@ -1,0 +1,18 @@
+.bos h3{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bos-all{
+    border: 1px solid rgb(74, 72, 72);
+    margin: 20px;
+}
+
+.bos-all p{
+    margin: 25px;
+}
+
+.bos-all a{
+    margin-left: 30px;
+    cursor: pointer;
+}
